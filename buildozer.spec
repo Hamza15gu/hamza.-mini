@@ -8,7 +8,7 @@ version = 1.0
 requirements = python3,pygame==2.5.2
 orientation = portrait
 fullscreen = 1
-p4a.branch = release-2023.12.14
+p4a.branch = v2024.01.21
 android.api = 33
 android.minapi = 21
 android.build_tools_version = 33.0.2
