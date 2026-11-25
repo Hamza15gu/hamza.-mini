@@ -5,7 +5,7 @@ package.domain = org.hamza
 source.dir = .
 source.include_exts = py,png,jpg
 version = 1.0
-requirements = python3,cython==0.29.19,pygame==2.5.2
+requirements = python3,pygame==2.5.2
 orientation = portrait
 fullscreen = 1
 p4a.branch = v2024.01.21
